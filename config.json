@@ -15,7 +15,7 @@
         "datasets": ["crypto-charts", "stock-charts", "fintwit-images"],
         "datasets_dir": "downloads",
         "load_datasets_in_memory": false,
-        "image_dir": "downloaded-data",
+        "image_dir": "C:/BitBucketRepo/datascienceprojects/ChartExt/Images/",
         "val_split": 0.2,
         "test_split": 0.1,
         "transformations": {
